@@ -21,8 +21,8 @@ To write a Java program that checks whether an Integer object is null before cal
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: KAVIYA S
-RegisterNumber: 212223040090
+Developed by: AMIRTHAVARSHINI.R.D
+RegisterNumber: 212223040013
 */
 ```
 
