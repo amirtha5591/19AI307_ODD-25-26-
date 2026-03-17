@@ -30,8 +30,8 @@ To implement weather prediction using interfaces with two bots — SunBot and Ra
  ```
 /*
 Program to implement a Interface using Java
-Developed by: KAVIYA S
-Register Number: 212223040090
+Developed by: AMIRTHAVARSHINI.R.D
+Register Number: 212223040013
 */
 ```
 
