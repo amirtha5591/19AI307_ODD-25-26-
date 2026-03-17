@@ -35,8 +35,8 @@ To implement a Java program that simulates a centralized print job manager using
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: KAVIYA S
-RegisterNumber: 212223040090
+Developed by: AMIRTHAVARSHINI.R.D
+RegisterNumber: 212223040013
 */
 ```
 
