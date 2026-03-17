@@ -17,8 +17,8 @@ To demonstrate the Abstract Factory Pattern by creating families of related obje
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: KAVIYA S
-RegisterNumber: 212223040090
+Developed by: AMIRTHAVARSHINI.R.D
+RegisterNumber: 212223040013
 */
 ```
 
