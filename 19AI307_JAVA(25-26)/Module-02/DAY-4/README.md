@@ -34,8 +34,8 @@ To write a Java program that initializes object variables using a constructor an
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: KAVIYA S
-Register Number: 212223040090
+Developed by: AMIRTHAVARSHINI.R.D
+Register Number: 212223040013
 */
 ```
 
